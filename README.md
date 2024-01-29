@@ -10,6 +10,10 @@
 2) Уменьшение качества картинок и преобразование в другие форматы
 3) Уменьшение качества видео и преобразования в gif
 
-# СЕО
-1) Установить description
-2) Установить заголовок
+# SEO
+## ссылки
+1) [ogp](https://ogp.me/)
+
+# Документация
+## ссылки
+1) [markdown](https://github.com/sandino/Markdown-Cheatsheet/blob/master/README.md)
