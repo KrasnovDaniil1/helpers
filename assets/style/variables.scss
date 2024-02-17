@@ -1,0 +1,19 @@
+$app-color: blue;
+$ratio: calc(1920 / 100); /*нужно для расчёта резиновой вёрстки*/
+
+/*
+Пример для резиновой вёрстки
+*/
+
+.app {
+    background: $app-color;
+    font-size: clamp(96px, calc(200vw / $ratio), 200px);
+}
+
+@media screen and (max-width: 834px) {
+    $ratio: calc(834 / 100);
+}
+
+@media screen and (max-width: 390px) {
+    $ratio: calc(390 / 100);
+}
