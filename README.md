@@ -24,6 +24,7 @@
 1. [ogp](https://ogp.me/)
 2. микроразметка
 3. [ссылка1](https://www.youtube.com/watch?v=JU79n3yU1aA&ab_channel=UlbiTV)
+4. Яндекс Метрика
 
 # Проверка
 
