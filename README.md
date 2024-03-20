@@ -38,6 +38,7 @@
 # Backend
 
 1. Генерация API [mokky](https://mokky.dev/)
+2. Бесплатные API [public-apis](https://github.com/public-apis/public-apis#animals)
 
 # Шрифты
 1. [ffont](https://ffont.ru/) 
