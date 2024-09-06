@@ -1,7 +1,7 @@
 # План вёрстки
 1. Создать файл для сброса css-стилей
-2. Создать файл для scss-переменных
-3. Добавить основные переменные для шрифтов, цветов, анимаций, адаптива и повторяющихся блоков
+2. Создать файл для css-переменных
+3. Добавить основные переменные для размера текста, цветов, анимаций, адаптива и повторяющихся блоков
 4. Создать файл для шрифтов
 5. Создать папку assets для картинок/шрифтов/иконок и других вспомогательных элементов
 6. Добавить все иконки/картинки/видео с макета
@@ -58,50 +58,23 @@
 6. Создание векторных картинок/gif [piskel](https://www.piskelapp.com/)
 7. Авто создание картинок по чертежу [autodraw](https://www.autodraw.com/)
 8. Создание аватарки [gallerix](https://kids.gallerix.ru/avatar/?make)
+9. Макеты сайтов [verstaem](https://verstaem.online/)
 
 # Изучение
 1. Скорость печати [TypingClub](https://www.typingclub.com/sportal/program-3.game)
 2. learn.js
 
-# HTML5 теги
-1. html
-2. head
-3. title
-4. body
-5. div
-6. nav
-7. h1-h5
-8. p
-9. span
-10. article
-11. nav
-12. button
-13. input - checkbox - ratio - tel
-14. textarea
-15. select - option
-16. ul-ol-li
-17. table-td-th-caption
-18. img
-19. header
-20. footer
-21. main
-22. section
-23. 
-
-# CSS3 свойства
-1. font-size font-family font-weight font-style color 
-2. 
-3. 
-
 # JS свойства
 1. Array - push - pop - ...
 
 # Библиотеки
-1. Работа с 3D на сайте [hree.js](https://threejs.org/) 
+1. Работа с 3D на сайте [three.js](https://threejs.org/) 
 2. 
 
 # Наименование классов
 
 # IT Ютуберы
+1. [Yura Koch](https://www.youtube.com/@yurakoch/videos) - игры на JS
+2. [Web Dev Sandbox](https://www.youtube.com/@WebDevSandbox) - Three.js web
 
 # Регулярные выражения
