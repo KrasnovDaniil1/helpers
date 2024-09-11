@@ -21,6 +21,7 @@
 2. микроразметка
 3. [ссылка1](https://www.youtube.com/watch?v=JU79n3yU1aA&ab_channel=UlbiTV)
 4. Яндекс Метрика
+5. [SEO советы](https://softovik.net/seo-verstka)
 
 # Сдача сайта
 1. [pagespeed](https://pagespeed.web.dev/)
@@ -30,6 +31,7 @@
 # Backend
 1. Генерация API [mokky](https://mokky.dev/)
 2. Бесплатные API [public-apis](https://github.com/public-apis/public-apis#animals)
+3. [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
 # Шрифты
 1. [ffont](https://ffont.ru/) 
@@ -59,10 +61,12 @@
 7. Авто создание картинок по чертежу [autodraw](https://www.autodraw.com/)
 8. Создание аватарки [gallerix](https://kids.gallerix.ru/avatar/?make)
 9. Макеты сайтов [verstaem](https://verstaem.online/)
+10. Тренировка скорости печати [TypingClub](https://www.typingclub.com/sportal/program-3.game)
 
 # Изучение
-1. Скорость печати [TypingClub](https://www.typingclub.com/sportal/program-3.game)
-2. learn.js
+1. learn.js
+2. metanit.com
+3. w3schools
 
 # JS свойства
 1. Array - push - pop - ...
@@ -72,9 +76,5 @@
 2. 
 
 # Наименование классов
-
-# IT Ютуберы
-1. [Yura Koch](https://www.youtube.com/@yurakoch/videos) - игры на JS
-2. [Web Dev Sandbox](https://www.youtube.com/@WebDevSandbox) - Three.js web
 
 # Регулярные выражения
